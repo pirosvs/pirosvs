@@ -1,8 +1,8 @@
 ### Hi there 👾
 <hr>
-My name is Damien (he/ze/hir) and I'm an aspiring web developper recently graduated from the UC Berkeley coding bootcamp with a certificate in Full-Stack Web Development. Feel free to look through my pinned repositories or portfolio to get a better look at my capabilities.
+My name is Damien (he/ze/hir) and I'm an aspiring web developer recently graduated from the UC Berkeley coding bootcamp with a certificate in Full-Stack Web Development. Feel free to look through my pinned repositories or portfolio to get a better look at my capabilities.
 
-### About the Developper
+### About the Developer
 <hr>
 I love creating tools that make being in online spaces more enjoyable, whether that be by improving pre-existing features to make them more intuitive and useful or making up new tools just for fun! And, I have a 3 year old cat named Penny who dictates when I can or can not sleep.
 
